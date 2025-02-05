@@ -60,8 +60,8 @@ def print_lyrics():
         sys.stdout.flush()
         time.sleep(delay)
         if word == "":
-            print("")  # Baris baru
-    print("")  # Akhir lirik
+            print("")  
+    print("")  
 
 if __name__ == "__main__":
     print_lyrics()
