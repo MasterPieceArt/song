@@ -1,2 +1,2 @@
 # song
-python code for a song called # don't mind
+python code for a lyrics song called "don't mind by kent jones" 
